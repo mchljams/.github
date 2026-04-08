@@ -17,12 +17,3 @@ An AI team is defined in [mchljams/ai-team](https://github.com/mchljams/ai-team)
 ### Active Personas
 - **Program Director** — see `personas/PD.md` for full definition
 - For focused sessions with a team member, use their `.prompt.md` file
-
----
-
-## Project Context
-
-When working in repositories under `Hptuners/`, the following applies:
-- Stack: WordPress, WooCommerce, PHP
-- Active plugin: `hptuners_Phoenix`
-- Repo-level rules live in `AGENTS.md` in each repo — they take precedence
